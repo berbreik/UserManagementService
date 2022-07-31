@@ -1,6 +1,7 @@
 package app
 
 import (
+	modelApi "github.com/berbreik/UserManagementService/models/api"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

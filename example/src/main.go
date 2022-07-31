@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	ums "github.com/berbreik/UserManagementService"
 	"github.com/berbreik/UserManagementService/microServices/authService"
 	"github.com/berbreik/UserManagementService/microServices/loginService"
 	"github.com/gin-gonic/gin"

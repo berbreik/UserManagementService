@@ -2,6 +2,7 @@ package authRequest
 
 import (
 	"encoding/json"
+	models "github.com/berbreik/UserManagementService/models/authRequest"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	//"net/rpc"

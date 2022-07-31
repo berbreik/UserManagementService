@@ -2,6 +2,8 @@ package app
 
 import (
 	"encoding/json"
+	modelApi "github.com/berbreik/UserManagementService/models/api"
+	models "github.com/berbreik/UserManagementService/models/app"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

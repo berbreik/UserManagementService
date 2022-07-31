@@ -3,6 +3,7 @@ package models
 import (
 	"errors"
 	"github.com/berbreik/UserManagementService/db/mongo"
+	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	"strconv"
 )

@@ -1,6 +1,7 @@
 package api
 
 import (
+	models "github.com/berbreik/UserManagementService/models/user"
 	"github.com/berbreik/UserManagementService/routes/api/v0_1"
 	"github.com/gin-gonic/gin"
 	"net/http"

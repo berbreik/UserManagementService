@@ -1,6 +1,7 @@
 package loginService
 
 import (
+	models "github.com/berbreik/UserManagementService/models/user"
 	"net"
 	//"net/http"
 	"net/rpc"

@@ -1,6 +1,7 @@
 package authService
 
 import (
+	models "github.com/berbreik/UserManagementService/models/authRequest"
 	"net"
 	//"net/http"
 	"net/rpc"
